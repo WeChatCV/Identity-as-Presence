@@ -95,10 +95,7 @@ The results will be saved in `results` directory.
 <table class="center">
 <tr>
     <td width="25%" valign="top">
-      <img src="assets/images/2-1.png" width="45%" valign="middle">
-      <video controls src="https://github.com/user-attachments/assets/67bfe53c-f2f4-486d-9e46-4e7d1ed58e08" width="45%" valign="middle"></video>
-      <img src="assets/images/2-2.png" width="45%" valign="middle">
-      <video controls src="https://github.com/user-attachments/assets/d425bbab-214b-439f-96c0-c157efbe27d4" width="45%" valign="middle"></video>
+      <img src="assets/images/2-1.png" width="20%" valign="middle"><video controls src="https://github.com/user-attachments/assets/67bfe53c-f2f4-486d-9e46-4e7d1ed58e08" width="20%" valign="middle"></video><img src="assets/images/2-2.png" width="20%" valign="middle"><video controls src="https://github.com/user-attachments/assets/d425bbab-214b-439f-96c0-c157efbe27d4" width="20%" valign="middle"></video>
       <video controls autoplay loop muted src="https://github.com/user-attachments/assets/f58bcb3b-5058-44a5-ad9f-bd4f8b50c89b" width="100%"></video>
     </td>
     <td width="25%" valign="top">
