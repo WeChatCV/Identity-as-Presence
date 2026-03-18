@@ -96,54 +96,31 @@ The results will be saved in `results` directory.
 <tr>
     <td width="25%" valign="top">
       <img src="assets/images/2-1.png" width="45%" valign="middle">
-      <video controls src="assets/audios/multi/1-1.mp4" width="45%" valign="middle"></video>
+      <video controls src="https://github.com/user-attachments/assets/67bfe53c-f2f4-486d-9e46-4e7d1ed58e08" width="45%" valign="middle"></video>
       <img src="assets/images/2-2.png" width="45%" valign="middle">
-      <video controls src="assets/audios/multi/1-2.mp4" width="45%" valign="middle"></video>
+      <video controls src="https://github.com/user-attachments/assets/d425bbab-214b-439f-96c0-c157efbe27d4" width="45%" valign="middle"></video>
       <video controls autoplay loop muted src="https://github.com/user-attachments/assets/f58bcb3b-5058-44a5-ad9f-bd4f8b50c89b" width="100%"></video>
     </td>
-    <!-- <td width="25%" style="border: none; vertical-align: top;">
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
-        <img src="assets/images/2-1.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
-        <audio controls src="assets/audios/multi/1-1.mp3" style="width: 23%; height: 32px;"></audio>
-      </div>
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
-        <img src="assets/images/2-2.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
-        <audio controls src="assets/audios/multi/1-2.mp3" style="width: 23%; height: 32px;"></audio>
-      </div>
-      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/f58bcb3b-5058-44a5-ad9f-bd4f8b50c89b" style="width: 100%; border-radius: 4px;"></video>
-    </td> -->
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
-        <img src="assets/images/2-1.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
-        <audio controls src="assets/audios/multi/2-1.mp3" style="width: 23%; height: 32px;"></audio>
-      </div>
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
-        <img src="assets/images/2-2.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
-        <audio controls src="assets/audios/multi/2-2.mp3" style="width: 23%; height: 32px;"></audio>
-      </div>
-      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/29728cb6-aaeb-45be-a560-16d8238c3d9e" style="width: 100%; border-radius: 4px;"></video>
+    <td width="25%" valign="top">
+      <img src="assets/images/2-1.png" width="45%" valign="middle">
+      <video controls src="https://github.com/user-attachments/assets/9c63075b-5e23-4458-97a1-a776e86a30f2" width="45%" valign="middle"></video>
+      <img src="assets/images/2-2.png" width="45%" valign="middle">
+      <video controls src="https://github.com/user-attachments/assets/3c92c142-da54-4824-b196-20860938456a" width="45%" valign="middle"></video>
+      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/29728cb6-aaeb-45be-a560-16d8238c3d9e" width="100%"></video>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
-        <img src="assets/images/2-1.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
-        <audio controls src="assets/audios/multi/3-1.mp3" style="width: 23%; height: 32px;"></audio>
-      </div>
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
-        <img src="assets/images/2-2.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
-        <audio controls src="assets/audios/multi/3-2.mp3" style="width: 23%; height: 32px;"></audio>
-      </div>
-      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/7e24c06d-8929-427f-bd58-e38b0ebec16b" style="width: 100%; border-radius: 4px;"></video>
+    <td width="25%" valign="top">
+      <img src="assets/images/2-1.png" width="45%" valign="middle">
+      <video controls src="https://github.com/user-attachments/assets/8954d491-a141-4b63-b1c2-4dbbdda30bb0" width="45%" valign="middle"></video>
+      <img src="assets/images/2-2.png" width="45%" valign="middle">
+      <video controls src="https://github.com/user-attachments/assets/e0b28db2-6c40-408f-946f-d8eedc13be79" width="45%" valign="middle"></video>
+      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/7e24c06d-8929-427f-bd58-e38b0ebec16b" width="100%"></video>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
-        <img src="assets/images/2-1.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
-        <audio controls src="assets/audios/multi/4-1.mp3" style="width: 23%; height: 32px;"></audio>
-      </div>
-      <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
-        <img src="assets/images/2-2.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
-        <audio controls src="assets/audios/multi/4-2.mp3" style="width: 23%; height: 32px;"></audio>
-      </div>
-      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/8191d7cd-89fa-4378-9b83-b9e8f964bf67" style="width: 100%; border-radius: 4px;"></video>
+    <td width="25%" valign="top">
+      <img src="assets/images/2-1.png" width="45%" valign="middle">
+      <video controls src="https://github.com/user-attachments/assets/09a1ff89-f2bd-4072-855d-dad42b23815c" width="45%" valign="middle"></video>
+      <img src="assets/images/2-2.png" width="45%" valign="middle">
+      <video controls src="https://github.com/user-attachments/assets/512a19ad-d56c-4ebe-9c2e-c4fdaa742e5b" width="45%" valign="middle"></video>
+      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/8191d7cd-89fa-4378-9b83-b9e8f964bf67" width="100%"></video>
     </td>
 </tr>
 </table>
