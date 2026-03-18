@@ -14,3 +14,7 @@ assets/audios
 
 # Preserve image files in root directory
 !teaser.png
+
+# Others
+.DS_Store
+*/.DS_Store

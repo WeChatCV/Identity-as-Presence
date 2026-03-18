@@ -33,7 +33,7 @@ Recent advances have demonstrated compelling capabilities in synthesizing real i
 
 ## 📑 TODO List
   - [x] Release inference code and model weights for single-subject scenarios
-  - [] Release inference code and model weights for multi-subject scenarios
+  - [ ] Release inference code and model weights for multi-subject scenarios
 
 ## Usage
 ### Environment
