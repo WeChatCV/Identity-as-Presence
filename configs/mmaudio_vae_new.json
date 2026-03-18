@@ -1,0 +1,6 @@
+{
+  "mode": "16k",
+  "need_vae_encoder": true,
+  "tod_vae_ckpt": "./ckpts/MMAudio/ext_weights/v1-16.pth",
+  "bigvgan_vocoder_ckpt": "./ckpts/bigvgan_v2_16khz_80band_256x_v2_600K"
+}

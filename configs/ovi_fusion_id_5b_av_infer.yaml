@@ -1,0 +1,103 @@
+format: civitai
+pipeline: Wan
+transformer_additional_kwargs:
+  transformer_low_noise_model_subpath: ./
+  transformer_combination_type: "single"
+  dict_mapping:
+    in_dim: in_channels
+    dim: hidden_size
+
+vae_kwargs:
+  vae_type: "AutoencoderKLWan3_8"
+  vae_subpath: Wan2.2_VAE.pth
+  temporal_compression_ratio: 4
+  spatial_compression_ratio: 16
+
+text_encoder_kwargs:
+  text_encoder_subpath: models_t5_umt5-xxl-enc-bf16.pth
+  tokenizer_subpath: google/umt5-xxl
+  text_length: 512
+  vocab: 256384
+  dim: 4096
+  dim_attn: 4096
+  dim_ffn: 10240
+  num_heads: 64
+  num_layers: 24
+  num_buckets: 32
+  shared_pos: False
+  dropout: 0.0
+
+scheduler_kwargs:
+  scheduler_subpath: null
+  num_train_timesteps: 1000
+  shift: 1.0
+  use_dynamic_shifting: false
+
+image_encoder_kwargs:
+  image_encoder_subpath: models_clip_open-clip-xlm-roberta-large-vit-huge-14.pth
+
+face_parsing_kwargs:
+  face_parsing_subpath: ./models/antelopev2
+
+image_proj_kwargs:
+  num_tokens: 8
+  emb_dim: 512
+  output_dim: 4096
+  image_proj_subpath: ./models/InfiniteYou/infu_flux_v1.0/sim_stage1/image_proj_model.bin
+
+video_config:
+  patch_size: 
+    - 1
+    - 2
+    - 2
+  model_type: "t2v"
+  dim: 3072
+  ffn_dim: 14336
+  freq_dim: 256
+  num_heads: 24
+  num_layers: 30
+  in_dim: 48 
+  out_dim: 48 
+  text_len: 512 
+  window_size:
+    - -1
+    - -1
+  qk_norm: true
+  cross_attn_norm: true
+  eps: 1e-6
+  support_x_prime: true
+  x_rope_offsets: 
+    - 0
+    - 0
+    - 0
+  x_prime_rope_offsets:
+    - 31
+    - 0
+    - 0
+  
+audio_config:
+  patch_size:
+    - 1
+  model_type: "t2a"
+  dim: 3072
+  ffn_dim: 14336
+  freq_dim: 256
+  num_heads: 24
+  num_layers: 30
+  in_dim: 20 
+  out_dim: 20
+  text_len: 512 
+  window_size:
+    - -1
+    - -1
+  qk_norm: true
+  cross_attn_norm: true
+  eps: 1e-6
+  temporal_rope_scaling_factor: 0.19676
+  support_x_prime: true
+  x_rope_offsets: 
+    - 0
+  x_prime_rope_offsets:
+    - 630
+
+fusion_model_path: /mnt/shangcephfs2/alexyjchen/workspace/VideoX-Fun/models/Ovi/model_960x960.safetensors
