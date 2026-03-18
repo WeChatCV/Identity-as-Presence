@@ -10,6 +10,7 @@ results/
 
 # Ignore assets directories but preserve audios and images subdirectories
 assets/videos
+assets/audios
 
 # Preserve image files in root directory
 !teaser.png

@@ -55,41 +55,37 @@ After downloading, ensure all model files are placed in the `ckpts` directory an
 ```shell
 $ bash infer.sh
 ```
-The results will be saved in `./results` directory.
+The results will be saved in `results` directory.
 
 ## 🎥 Demo 
 
 ### Single-subject Personalized Generation
 <table class="center">
 <tr>
-    <td width=25% style="border: none">
-      <audio controls src="assets/audios/single/1.mp3"></audio>
+    <td width="25%">
+      <video controls src="https://github.com/user-attachments/assets/f8d33217-9fa7-4fdb-8304-a4c03ad140a9" width="100%"></video>
     </td>
-    <td width=25% style="border: none">
-      <audio controls src="assets/audios/single/2.mp3"></audio>
+    <td width="25%">
+      <video controls src="https://github.com/user-attachments/assets/d18d563d-19cd-4479-8dea-a2fb7c8295c3" width="100%"></video>
     </td>
-    <td width=25% style="border: none">
-      <audio controls src="assets/audios/single/3.mp3"></audio>
+    <td width="25%">
+      <video controls src="https://github.com/user-attachments/assets/f6467eaf-d021-4f61-93b5-7f0a6198e91a" width="100%"></video>
     </td>
-    <td width=25% style="border: none">
-      <audio controls src="assets/audios/single/4.mp3"></audio>
+    <td width="25%">
+      <video controls src="https://github.com/user-attachments/assets/3aa8f622-70ec-41ae-be83-bd35050ba0a0" width="100%"></video>
     </td>
 </tr>
 <tr>
     <td width=25% style="border: none">
-      <audio controls src="assets/audios/single/1.mp3"></audio>
       <video controls autoplay loop src="https://github.com/user-attachments/assets/ba26a1dd-b8be-477c-b97d-cffb41c088ce" muted="false"></video>
     </td>
     <td width=25% style="border: none">
-      <audio controls src="assets/audios/single/2.mp3"></audio>
       <video controls autoplay loop src="https://github.com/user-attachments/assets/c26a9e54-8267-402c-b09a-c2229622a650" muted="false"></video>
     </td>
     <td width=25% style="border: none">
-      <audio controls src="assets/audios/single/3.mp3"></audio>
       <video controls autoplay loop src="https://github.com/user-attachments/assets/66f6113b-3fb2-4b29-951d-ba0bfbfa259c" muted="false"></video>
     </td>
     <td width=25% style="border: none">
-      <audio controls src="assets/audios/single/4.mp3"></audio>
       <video controls autoplay loop src="https://github.com/user-attachments/assets/8ac02afd-01ae-414e-94f2-2559af025d14" muted="false"></video>
     </td>
 </tr>
@@ -98,7 +94,14 @@ The results will be saved in `./results` directory.
 ### Multi-subject Personalized Generation
 <table class="center">
 <tr>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
+      <img src="assets/images/2-1.png" width="45%" valign="middle">
+      <video controls src="assets/audios/multi/1-1.mp4" width="45%" valign="middle"></video>
+      <img src="assets/images/2-2.png" width="45%" valign="middle">
+      <video controls src="assets/audios/multi/1-2.mp4" width="45%" valign="middle"></video>
+      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/f58bcb3b-5058-44a5-ad9f-bd4f8b50c89b" width="100%"></video>
+    </td>
+    <!-- <td width="25%" style="border: none; vertical-align: top;">
       <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
         <img src="assets/images/2-1.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
         <audio controls src="assets/audios/multi/1-1.mp3" style="width: 23%; height: 32px;"></audio>
@@ -108,7 +111,7 @@ The results will be saved in `./results` directory.
         <audio controls src="assets/audios/multi/1-2.mp3" style="width: 23%; height: 32px;"></audio>
       </div>
       <video controls autoplay loop muted src="https://github.com/user-attachments/assets/f58bcb3b-5058-44a5-ad9f-bd4f8b50c89b" style="width: 100%; border-radius: 4px;"></video>
-    </td>
+    </td> -->
     <td width="25%" style="border: none; vertical-align: top;">
       <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
         <img src="assets/images/2-1.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
