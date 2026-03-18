@@ -1,0 +1,9 @@
+Please place the following model folders/files in this directory:
+
+1. MMAudio - Audio processing model
+2. Wan2.2-TI2V-5B - Text-to-video generation model
+3. bigvgan_v2_16khz_80band_256x_v2_600K - BigVGAN speech synthesis model
+4. Identity-as-Presence model - Identity as Presence model
+
+These model files are pre-trained weights required for the project to run.
+Please ensure the files are complete and not corrupted.
