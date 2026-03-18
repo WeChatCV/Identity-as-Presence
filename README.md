@@ -13,7 +13,7 @@ Chen Li,
 Jing LYU<br>
 
 <p align="center">
-<a href="https://arxiv.org/abs/2501.05020"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://arxiv.org/abs/TBD"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 <a href="https://chen-yingjie.github.io/projects/Identity-as-Presence/index.html"><img src="https://img.shields.io/badge/Project-Website-red"></a>
 <a href=""><img src="https://img.shields.io/static/v1?label=Demo&message=Video&color=orange"></a>
 <a href="" target='_blank'>
@@ -64,19 +64,33 @@ The results will be saved in `./results` directory.
 <tr>
     <td width=25% style="border: none">
       <audio controls src="assets/audios/single/1.mp3"></audio>
+    </td>
+    <td width=25% style="border: none">
+      <audio controls src="assets/audios/single/2.mp3"></audio>
+    </td>
+    <td width=25% style="border: none">
+      <audio controls src="assets/audios/single/3.mp3"></audio>
+    </td>
+    <td width=25% style="border: none">
+      <audio controls src="assets/audios/single/4.mp3"></audio>
+    </td>
+</tr>
+<tr>
+    <td width=25% style="border: none">
+      <audio controls src="assets/audios/single/1.mp3"></audio>
       <video controls autoplay loop src="https://github.com/user-attachments/assets/ba26a1dd-b8be-477c-b97d-cffb41c088ce" muted="false"></video>
     </td>
     <td width=25% style="border: none">
       <audio controls src="assets/audios/single/2.mp3"></audio>
-      <video controls autoplay loop src="assets/videos/single/2.mp4" muted="false"></video>
+      <video controls autoplay loop src="https://github.com/user-attachments/assets/c26a9e54-8267-402c-b09a-c2229622a650" muted="false"></video>
     </td>
     <td width=25% style="border: none">
       <audio controls src="assets/audios/single/3.mp3"></audio>
-      <video controls autoplay loop src="assets/videos/single/3.mp4" muted="false"></video>
+      <video controls autoplay loop src="https://github.com/user-attachments/assets/66f6113b-3fb2-4b29-951d-ba0bfbfa259c" muted="false"></video>
     </td>
     <td width=25% style="border: none">
       <audio controls src="assets/audios/single/4.mp3"></audio>
-      <video controls autoplay loop src="assets/videos/single/4.mp4" muted="false"></video>
+      <video controls autoplay loop src="https://github.com/user-attachments/assets/8ac02afd-01ae-414e-94f2-2559af025d14" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -93,7 +107,7 @@ The results will be saved in `./results` directory.
         <img src="assets/images/2-2.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
         <audio controls src="assets/audios/multi/1-2.mp3" style="width: 23%; height: 32px;"></audio>
       </div>
-      <video controls autoplay loop muted src="assets/videos/multi/1.mp4" style="width: 100%; border-radius: 4px;"></video>
+      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/f58bcb3b-5058-44a5-ad9f-bd4f8b50c89b" style="width: 100%; border-radius: 4px;"></video>
     </td>
     <td width="25%" style="border: none; vertical-align: top;">
       <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
@@ -104,7 +118,7 @@ The results will be saved in `./results` directory.
         <img src="assets/images/2-2.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
         <audio controls src="assets/audios/multi/2-2.mp3" style="width: 23%; height: 32px;"></audio>
       </div>
-      <video controls autoplay loop muted src="assets/videos/multi/2.mp4" style="width: 100%; border-radius: 4px;"></video>
+      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/29728cb6-aaeb-45be-a560-16d8238c3d9e" style="width: 100%; border-radius: 4px;"></video>
     </td>
     <td width="25%" style="border: none; vertical-align: top;">
       <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
@@ -115,7 +129,7 @@ The results will be saved in `./results` directory.
         <img src="assets/images/2-2.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
         <audio controls src="assets/audios/multi/3-2.mp3" style="width: 23%; height: 32px;"></audio>
       </div>
-      <video controls autoplay loop muted src="assets/videos/multi/3.mp4" style="width: 100%; border-radius: 4px;"></video>
+      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/7e24c06d-8929-427f-bd58-e38b0ebec16b" style="width: 100%; border-radius: 4px;"></video>
     </td>
     <td width="25%" style="border: none; vertical-align: top;">
       <div style="display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-bottom: 8px;">
@@ -126,7 +140,7 @@ The results will be saved in `./results` directory.
         <img src="assets/images/2-2.png" style="width: 23%; object-fit: cover; border-radius: 4px;">
         <audio controls src="assets/audios/multi/4-2.mp3" style="width: 23%; height: 32px;"></audio>
       </div>
-      <video controls autoplay loop muted src="assets/videos/multi/4.mp4" style="width: 100%; border-radius: 4px;"></video>
+      <video controls autoplay loop muted src="https://github.com/user-attachments/assets/8191d7cd-89fa-4378-9b83-b9e8f964bf67" style="width: 100%; border-radius: 4px;"></video>
     </td>
 </tr>
 </table>
@@ -139,12 +153,12 @@ For more details, please refer to our [project page](https://chen-yingjie.github
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```bibtex
-@inproceedings{chen2025identity,
+@inproceedings{chen2026identity,
   title={Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation},
   author={Chen, Yingjie and Lin, Shilun and Xing, Cai and Yan, Qixin and Wang, Wenjing and Liu, Dingming and Liu, Hao and Li, Chen and LYU, Jing},
-  journal={arXiv preprint arXiv:2501.05020},
+  journal={arXiv preprint arXiv:TBD},
   website={https://chen-yingjie.github.io/projects/Identity-as-Presence/index.html},
-  year={2025}}
+  year={2026}}
 ```
 
 ## Acknowledgements

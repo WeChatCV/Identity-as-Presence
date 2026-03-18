@@ -1,5 +1,5 @@
 # Ignore checkpoints and model files
-ckpts/
+ckpts/*
 !ckpts/PutYourModelsHere.txt
 
 # Ignore Python cache directories
@@ -9,9 +9,7 @@ __pycache__/
 results/
 
 # Ignore assets directories but preserve audios and images subdirectories
-assets/
-!assets/audios/
-!assets/images/
+assets/videos
 
 # Preserve image files in root directory
 !teaser.png
