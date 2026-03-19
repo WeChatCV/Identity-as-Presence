@@ -13,7 +13,7 @@ Chen Li,
 Jing LYU<br>
 
 <p align="center">
-<a href="https://arxiv.org/abs/TBD"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://arxiv.org/abs/2603.17889"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 <a href="https://chen-yingjie.github.io/projects/Identity-as-Presence/index.html"><img src="https://img.shields.io/badge/Project-Website-red"></a>
 <a href=""><img src="https://img.shields.io/static/v1?label=Demo&message=Video&color=orange"></a>
 <a href="" target='_blank'>
@@ -132,7 +132,7 @@ If you find this code useful for your research, please use the following BibTeX 
 @inproceedings{chen2026identity,
   title={Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation},
   author={Chen, Yingjie and Lin, Shilun and Xing, Cai and Yan, Qixin and Wang, Wenjing and Liu, Dingming and Liu, Hao and Li, Chen and LYU, Jing},
-  journal={arXiv preprint arXiv:TBD},
+  journal={arXiv preprint arXiv:2603.17889},
   website={https://chen-yingjie.github.io/projects/Identity-as-Presence/index.html},
   year={2026}}
 ```
