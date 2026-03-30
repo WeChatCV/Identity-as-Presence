@@ -131,7 +131,7 @@ If you find this code useful for your research, please use the following BibTeX 
 ```bibtex
 @inproceedings{chen2026identity,
   title={Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation},
-  author={Chen, Yingjie and Lin, Shilun and Xing, Cai and Yan, Qixin and Wang, Wenjing and Liu, Dingming and Liu, Hao and Li, Chen and LYU, Jing},
+  author={Chen, Yingjie and Lin, Shilun and Xing, Cai and Binxin, Yang and Long, Zhou and Yan, Qixin and Wang, Wenjing and Liu, Dingming and Liu, Hao and Li, Chen and LYU, Jing},
   journal={arXiv preprint arXiv:2603.17889},
   website={https://chen-yingjie.github.io/projects/Identity-as-Presence/index.html},
   year={2026}}
